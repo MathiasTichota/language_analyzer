@@ -1,0 +1,22 @@
+# Python Bytecode (compiled cache)
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Editor & OS Files (Arch/Linux specific)
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE Settings (VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Optional: Ignore large text files or logs you use for testing
+# *.txt
+# *.log
